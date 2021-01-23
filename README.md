@@ -1,0 +1,53 @@
+# Progressive Web Application (PWA)
+
+Create a weather dashboard that will tell a traveler what the current conditions are, future condition will be, and the ability to enter multiple cities to recall when needed.
+
+## GitHub Repository
+
+https://github.com/eaborden/weather_app
+
+## Deployed Application
+
+
+## Table of Contents
+[Required Elements](#required-elements)\
+[Requirements](#requirements)\
+[Project Images](#project-images)
+
+## Required Elements
+[OpenWeather API](https://openweathermap.org/api)
+*   [Current Weather Data](https://openweathermap.org/current)
+*   [UV Index](https://openweathermap.org/api/uvi)
+*   [Daily Forecast 16 days](https://openweathermap.org/forecast16)
+
+index.html\
+style.css\
+index.js\
+
+# Requirements
+
+Weather dashboard with form inputs:
+
+Search for a city
+*   Presented with current and future conditions for that city and that city is added to the search history
+
+View current weather conditions for that city
+*   Presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
+
+View the UV index
+*   Presented with a color that indicates whether the conditions are favorable, moderate, or severe
+
+View future weather conditions for that city
+*   Presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity
+
+Click on a city in the search history
+*   Presented with current and future conditions for that city
+
+I re-open the weather dashboard
+*   Presented with the last searched city forecast
+
+
+## Project Images
+
+###  Application Screenshot
+
