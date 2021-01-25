@@ -23,7 +23,7 @@ https://github.com/eaborden/weather_app
 
 index.html\
 style.css\
-index.js\
+index.js
 
 # Requirements
 
@@ -55,4 +55,4 @@ I re-open the weather dashboard
 ## Project Images
 
 ###  Application Screenshot
-![screenshot](https://github.com/eaborden/weather_app/blob/master/images/screenshot.png?raw=true)
+![screenshot](https://github.com/eaborden/weather_app/blob/master/images/screenshot.PNG?raw=true)
