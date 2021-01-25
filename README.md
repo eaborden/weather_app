@@ -1,4 +1,4 @@
-# Progressive Web Application (PWA)
+# Weather Dashboard
 
 Create a weather dashboard that will tell a traveler what the current conditions are, future condition will be, and the ability to enter multiple cities to recall when needed.
 
@@ -12,6 +12,7 @@ https://github.com/eaborden/weather_app
 ## Table of Contents
 [Required Elements](#required-elements)\
 [Requirements](#requirements)\
+[Future Development](#future-development)\
 [Project Images](#project-images)
 
 ## Required Elements
@@ -46,6 +47,10 @@ Click on a city in the search history
 I re-open the weather dashboard
 *   Presented with the last searched city forecast
 
+## Future Development
+* Incorporate the UV index datapoint (see UVIpsuedoCode.md)
+* Use the imperial setting in the current weather API to avoid having to do the calculation on temperature.
+* Because is searching by city, and not using State, it is random with City you are getting (i.e. Denver, CO or Denver, PA).  Incorporate State into the query to be more accurate.
 
 ## Project Images
 
