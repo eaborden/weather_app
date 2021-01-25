@@ -8,6 +8,7 @@ https://github.com/eaborden/weather_app
 
 ## Deployed Application
 
+https://eaborden.github.io/weather_app/
 
 ## Table of Contents
 [Required Elements](#required-elements)\
