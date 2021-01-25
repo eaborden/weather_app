@@ -55,4 +55,4 @@ I re-open the weather dashboard
 ## Project Images
 
 ###  Application Screenshot
-
+![screenshot](https://github.com/eaborden/weather_app/blob/master/images/screenshot.png?raw=true)
